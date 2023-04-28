@@ -1,3 +1,3 @@
 # login-and-register-panel-with-tailwind-and-database
-Uspa.sql available when imported.
-Uspa.sql içe aktarıldığında kullanılabilir.
+[EN]Uspa.sql available when imported.
+[TR]Uspa.sql içe aktarıldığında kullanılabilir.
